@@ -1,0 +1,11 @@
+.btn-modern{
+    border: none;
+}
+
+.btn-modern:hover{
+    transform: translateY(-5px);
+    border-bottom: 2px solid rgb(228, 207, 90);
+    background-color: antiquewhite;
+    color:green;
+    transition: 0.4s;
+}
